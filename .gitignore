@@ -16,9 +16,5 @@ node_modules/
 /tests/videos/
 /services/
 /tsc/
-/utils/
-/index.cjs
-/index.mjs
-/index.d.ts
 .idea
 .history
